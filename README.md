@@ -1,0 +1,2 @@
+# modusecho
+plugin modus echo
